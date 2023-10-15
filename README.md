@@ -1,8 +1,4 @@
-# 
-https://xKrishnaSaxena.github.io/advices-react 
-use the above link to test the app
-
-Getting Started with Create React App
+#https://xKrishnaSaxena.github.io/advices-react 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
